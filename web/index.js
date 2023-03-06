@@ -184,7 +184,7 @@ const createDeliveryCustomization = async (graphqlClient, req, res) => {
         variables: {
           input: {
             functionId: payload.functionId,
-            title: `Display message for ${payload.zip}`,
+            title: `Display message for postal code: ${payload.zip}`,
             enabled: true,
           },
         }
