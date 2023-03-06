@@ -1,5 +1,5 @@
 [package]
-name = "payment-customization"
+name = "Payment Customization Extension"
 version = "1.0.0"
 edition = "2021"
 
