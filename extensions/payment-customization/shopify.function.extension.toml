@@ -1,4 +1,4 @@
-name = "payment-customization"
+name = "Payment Customization Extension"
 type = "payment_customization"
 api_version = "2023-04"
 

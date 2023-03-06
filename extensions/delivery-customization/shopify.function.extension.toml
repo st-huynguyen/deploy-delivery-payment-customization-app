@@ -1,4 +1,4 @@
-name = "delivery-customization"
+name = "Delivery Customization Extension"
 type = "delivery_customization"
 api_version = "2023-04"
 
